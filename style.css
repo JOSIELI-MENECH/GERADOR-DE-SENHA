@@ -78,6 +78,19 @@ body{
 width: 50%;
 }
 
+.botoes-{
+    width: 16%;
+}
+
+.botoes12{
+    width: 22%;
+}
+
+.botoesmais{
+    width: 16%;
+}
+
+
 .parametro-coluna__senha{
     display: flex;
     flex-direction: column;
